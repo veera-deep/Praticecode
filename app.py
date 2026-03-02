@@ -10,7 +10,7 @@ number = int(input("Enter a number to check even/odd: "))
 print("\nHello", name)
 
 # Check voting eligibility
-if age >= 18:
+if age >= 19:
     print("You are eligible to vote.")
 else:
     print("You are not eligible to vote.")
