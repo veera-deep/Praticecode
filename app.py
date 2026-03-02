@@ -1,5 +1,4 @@
 # Single Console Program Using If-Ese
-
 print("Welcome to Simple Python code Programming")
 
 # Take user input
