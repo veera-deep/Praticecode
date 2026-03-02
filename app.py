@@ -24,6 +24,6 @@ else:
 
 # Check even or odd
 if number % 2 == 0:
-    print("The number is Even.")
+    print("The number is Even Number.")
 else:
-    print("The number is Odd.")
+    print("The number is Odd Number.")
