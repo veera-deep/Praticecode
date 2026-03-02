@@ -1,6 +1,6 @@
 # Single Console Program Using If-Else
 
-print("Welcome to Simple Python Programming")
+print("Welcome to Simple Python coding Programming")
 
 # Take user input
 name = input("Enter your name: ")
